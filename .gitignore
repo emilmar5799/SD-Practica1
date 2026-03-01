@@ -1,0 +1,34 @@
+# Node
+node_modules/
+package-lock.json
+
+# Env
+.env
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+
+# Certificates
+*.pem
+*.key
+
+# Pending metrics
+pending/
+
+# VSCode
+.vscode/
+
+# Systemd (si generas archivos temporales)
+*.service
+
+# Coverage
+coverage/
