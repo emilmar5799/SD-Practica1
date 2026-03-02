@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 const logSchema = new mongoose.Schema({
     nodeId: String,
-    logMessage: String,
+    message: String,
     timestamp: Date
 });
 

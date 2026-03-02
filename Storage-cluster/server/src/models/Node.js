@@ -4,6 +4,7 @@ const nodeSchema = new mongoose.Schema({
     nodeId: String,
     mac: String,
     ip: String,
+    timezone: String,
     status: { type: String, default: "UP" },
     lastReport: Date
 }, { timestamps: true });

@@ -5,8 +5,8 @@ const metricsSchema = new mongoose.Schema({
     totalMem: Number,
     usedMem: Number,
     freeMem: Number,
-    timezone: String,
-    timestamp: Date
+    timestamp: Date,
+    timezone: String
 });
 
 module.exports = mongoose.model("Metrics", metricsSchema);
