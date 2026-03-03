@@ -48,17 +48,29 @@ export const getHistory = (nodeId: string, limit = 100) =>
 // ── CLUSTER ───────────────────────────────────────────────────────────────────
 
 export const getCluster = async () => {
+  // primero obtener la métrica más reciente por cada par nodoId+diskName,
+  // luego agrupar por nodoId para sumar discos, y finalmente sumar todo para
+  // el cluster.
   const [result] = await Metric.aggregate([
     { $sort: { createdAt: -1 } },
-    { $group: { _id: '$nodeId', m: { $first: '$$ROOT' } } },
-    {
-      $group: {
-        _id: null,
+    { $group: { _id: { nodeId: '$nodeId', disk: '$diskName' }, m: { $first: '$$ROOT' } } },
+    { $group: {
+        _id: '$_id.nodeId',
         totalDisk: { $sum: '$m.totalGB' },
         usedDisk:  { $sum: '$m.usedGB'  },
         freeDisk:  { $sum: '$m.freeGB'  },
-        totalRAM:  { $sum: '$m.totalRAM' },
-        usedRAM:   { $sum: '$m.usedRAM'  },
+        // asumimos que la RAM se repite igual para todas las métricas por nodo
+        totalRAM:  { $first: '$m.totalRAM' },
+        usedRAM:   { $first: '$m.usedRAM'  },
+      }
+    },
+    { $group: {
+        _id: null,
+        totalDisk: { $sum: '$totalDisk' },
+        usedDisk:  { $sum: '$usedDisk'  },
+        freeDisk:  { $sum: '$freeDisk'  },
+        totalRAM:  { $sum: '$totalRAM' },
+        usedRAM:   { $sum: '$usedRAM'  },
         nodos:     { $sum: 1 },
       }
     }

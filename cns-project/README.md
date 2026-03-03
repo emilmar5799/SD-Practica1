@@ -66,6 +66,11 @@ NODE_NOMBRE=La Paz        ← Nombre del departamento
 REPORT_INTERVAL_MS=10000  ← Cada 10 segundos
 ```
 
+> **Nota:** el cliente ahora detecta **todas** las unidades lógicas del equipo (C:, D:, etc.)
+> y las envía por separado al servidor. Si la conexión TCP se interrumpe el cliente
+> sigue generando métricas y las guarda en `client/logs/unsent_metrics.log`; en cuanto
+> recupera la conexión se reenvía automáticamente todo lo acumulado.
+
 Iniciar:
 ```bash
 npm run start

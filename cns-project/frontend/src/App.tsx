@@ -60,6 +60,16 @@ const NodeCard = ({ node, selected, onClick }: any) => {
           <span style={{ color: pctColor(pctDisk) }}>{node.usedGB}GB / {node.totalGB}GB · {pctDisk}%</span>
         </div>
         <GaugeBar value={pctDisk} color="#38bdf8" />
+        {/* listar discos individuales si hay más de uno */}
+        {node.disks && node.disks.length > 1 && (
+          <div style={{ marginTop: 4, fontSize: 10, color: '#94a3b8' }}>
+            {node.disks.map((d: any) => (
+              <div key={d.diskName}>
+                {d.diskName}: {d.usedGB}/{d.totalGB}GB
+              </div>
+            ))}
+          </div>
+        )}
       </div>
 
       <div>
@@ -84,12 +94,32 @@ const DetailPanel = ({ node, history, onCommand }: any) => {
   const pctDisk = node.pctUse || 0;
   const pctRAM  = node.totalRAM > 0 ? Math.round((node.usedRAM / node.totalRAM) * 100) : 0;
 
-  const chartData = history.slice(0, 20).reverse().map((m: any) => ({
-    hora: new Date(m.createdAt).toLocaleTimeString('es', { hour: '2-digit', minute: '2-digit' }),
-    disco: m.pctUse || 0,
-    ram:   m.totalRAM > 0 ? Math.round((m.usedRAM / m.totalRAM) * 100) : 0,
-    iops:  m.iops || 0,
-  }));
+  // preparar listas separadas: una por cada disco y otra para RAM
+  const diskNames: string[] = Array.from(new Set(history.map((m: any) => String(m.diskName))));
+
+  const diskData: Record<string, any[]> = {};
+  diskNames.forEach(d => { diskData[d] = []; });
+  const ramData: any[] = [];
+
+  history.forEach((m: any) => {
+    const hora = new Date(m.createdAt).toLocaleTimeString('es', { hour: '2-digit', minute: '2-digit' });
+    const pct = m.totalGB > 0 ? Math.round((m.usedGB / m.totalGB) * 100) : 0;
+    if (diskData[m.diskName]) {
+      diskData[m.diskName].push({ hora, pct, iops: m.iops });
+    }
+    ramData.push({ hora, ram: m.totalRAM > 0 ? Math.round((m.usedRAM / m.totalRAM) * 100) : 0 });
+  });
+
+  // limitar a 20 puntos más recientes y ordenar cronológicamente
+  Object.keys(diskData).forEach(d => {
+    diskData[d] = diskData[d].slice(-20);
+  });
+  const ramChart = ramData.slice(-20);
+
+  // chartData se utiliza únicamente para graficar IOPS; tomamos todos los puntos de
+  // los discos (la primera serie) y limitamos a 20. Se tipa explícitamente para evitar
+  // advertencia TS7005.
+  const chartData: any[] = Object.values(diskData).flat().slice(-20);
 
   const pieColors = ['#38bdf8', '#1e3a5f'];
   const pieRAM    = ['#a78bfa', '#2d1a4a'];
@@ -118,6 +148,14 @@ const DetailPanel = ({ node, history, onCommand }: any) => {
         </div>
       </div>
 
+      {/* Breakdown de discos si existen varios */}
+      {node.disks && node.disks.length > 1 && (
+        <div style={{ color: '#94a3b8', fontSize: 10, marginBottom: 6 }}>
+          {node.disks.map((d: any) => (
+            <div key={d.diskName}>{d.diskName}: {d.usedGB}/{d.totalGB} GB</div>
+          ))}
+        </div>
+      )}
       {/* Pie charts */}
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12 }}>
         {[
@@ -146,30 +184,36 @@ const DetailPanel = ({ node, history, onCommand }: any) => {
         ))}
       </div>
 
-      {/* Historial */}
-      {chartData.length > 0 && (
-        <div style={{ background: '#0d1829', borderRadius: 12, padding: 12, border: '1px solid #1e293b' }}>
-          <div style={{ fontSize: 10, color: '#64748b', marginBottom: 8 }}>HISTORIAL — DISCO & RAM (%)</div>
-          <ResponsiveContainer width="100%" height={100}>
-            <AreaChart data={chartData}>
-              <defs>
-                <linearGradient id="gD" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="5%" stopColor="#38bdf8" stopOpacity={0.4} />
-                  <stop offset="95%" stopColor="#38bdf8" stopOpacity={0} />
-                </linearGradient>
-                <linearGradient id="gR" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="5%" stopColor="#a78bfa" stopOpacity={0.4} />
-                  <stop offset="95%" stopColor="#a78bfa" stopOpacity={0} />
-                </linearGradient>
-              </defs>
-              <XAxis dataKey="hora" tick={{ fill: '#475569', fontSize: 8 }} axisLine={false} tickLine={false} />
-              <YAxis tick={{ fill: '#475569', fontSize: 8 }} axisLine={false} tickLine={false} domain={[0, 100]} />
-              <Tooltip contentStyle={{ background: '#0f2040', border: '1px solid #1e3a5f', fontSize: 10, color: '#e2e8f0' }} />
-              <Area type="monotone" dataKey="disco" stroke="#38bdf8" fill="url(#gD)" strokeWidth={2} name="Disco %" />
-              <Area type="monotone" dataKey="ram"   stroke="#a78bfa" fill="url(#gR)" strokeWidth={2} name="RAM %" />
-            </AreaChart>
-          </ResponsiveContainer>
-        </div>
+     
+      {diskNames.length > 0 && (
+        <>
+          {diskNames.map((d, idx) => (
+            <div key={d} style={{ background: '#0d1829', borderRadius: 12, padding: 12, border: '1px solid #1e293b', marginBottom: 12 }}>
+              <div style={{ fontSize: 10, color: '#64748b', marginBottom: 8 }}>HISTORIAL — DISCO {d} (%)</div>
+              <ResponsiveContainer width="100%" height={90}>
+                <AreaChart data={diskData[d]}>
+                  <XAxis dataKey="hora" tick={{ fill: '#475569', fontSize: 8 }} axisLine={false} tickLine={false} />
+                  <YAxis tick={{ fill: '#475569', fontSize: 8 }} axisLine={false} tickLine={false} domain={[0, 100]} />
+                  <Tooltip contentStyle={{ background: '#0f2040', border: '1px solid #1e3a5f', fontSize: 10, color: '#e2e8f0' }} />
+                  <Area type="monotone" dataKey="pct" stroke={[ '#38bdf8','#a78bfa','#f59e0b','#22c55e','#ef4444' ][idx % 5]} fill="none" strokeWidth={2} name={d} />
+                </AreaChart>
+              </ResponsiveContainer>
+            </div>
+          ))}
+
+          {/* RAM separado */}
+          <div style={{ background: '#0d1829', borderRadius: 12, padding: 12, border: '1px solid #1e293b' }}>
+            <div style={{ fontSize: 10, color: '#64748b', marginBottom: 8 }}>HISTORIAL — RAM (%)</div>
+            <ResponsiveContainer width="100%" height={90}>
+              <AreaChart data={ramChart}>
+                <XAxis dataKey="hora" tick={{ fill: '#475569', fontSize: 8 }} axisLine={false} tickLine={false} />
+                <YAxis tick={{ fill: '#475569', fontSize: 8 }} axisLine={false} tickLine={false} domain={[0, 100]} />
+                <Tooltip contentStyle={{ background: '#0f2040', border: '1px solid #1e3a5f', fontSize: 10, color: '#e2e8f0' }} />
+                <Area type="monotone" dataKey="ram" stroke="#a78bfa" fill="url(#gR)" strokeWidth={2} name="RAM %" />
+              </AreaChart>
+            </ResponsiveContainer>
+          </div>
+        </>
       )}
 
       {/* IOPS */}
