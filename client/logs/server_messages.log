@@ -1,0 +1,2082 @@
+[2026-02-28T03:04:56.403Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T03:04:56.863Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:04:57.357Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:05:06.967Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:05:07.333Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:05:16.962Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:05:17.322Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:05:26.980Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:05:27.339Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:05:36.969Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:05:37.329Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:05:46.974Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:05:47.332Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:05:56.746Z] [COMMAND] Servidor dice: Verifique espacio
+[2026-02-28T03:05:56.975Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:05:57.356Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:06:06.977Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:06:07.336Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:06:17.012Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:06:17.372Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:06:27.004Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:06:27.360Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:06:37.010Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:06:37.369Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:06:47.020Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:06:47.376Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:06:57.020Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:06:57.380Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:07:07.045Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:07:07.408Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:07:17.031Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:07:17.387Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:07:27.043Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:07:27.399Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:07:37.043Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:07:37.398Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:07:47.062Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:07:47.427Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:07:57.049Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:07:57.401Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:08:07.037Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:08:07.393Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:08:17.078Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:08:17.432Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:08:27.057Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:08:27.418Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:08:37.061Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:08:37.418Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:08:47.071Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:08:47.427Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:08:57.072Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:08:57.436Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:09:07.082Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:09:07.453Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:09:17.084Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:09:17.442Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:09:27.090Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:09:27.450Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:09:30.927Z] [COMMAND] Servidor dice: Verifique espacio
+[2026-02-28T03:09:37.099Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:09:37.453Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:09:47.143Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:09:47.498Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:09:57.112Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:09:57.466Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:10:07.106Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:10:07.465Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:10:17.112Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:10:17.470Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:10:27.152Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:10:27.502Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:10:37.130Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:10:37.503Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:10:47.138Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:10:47.491Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:10:57.147Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:10:57.511Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:11:07.151Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:11:07.507Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:11:17.148Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:11:17.505Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:11:27.152Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:11:27.506Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:11:37.162Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:11:37.524Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:11:47.239Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:11:47.589Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:11:57.185Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:11:57.542Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:12:07.181Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:12:07.538Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:12:17.191Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:12:17.555Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:12:27.196Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:12:27.555Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:12:37.220Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:12:37.578Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:12:47.204Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:12:47.559Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:12:57.211Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:12:57.577Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:13:07.232Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:13:07.591Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:13:17.242Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:13:17.603Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:13:27.236Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:13:27.597Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:13:37.244Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:13:37.609Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:13:47.251Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:13:47.614Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:13:57.268Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:13:57.624Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:14:07.280Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:14:07.636Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:14:17.276Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:14:17.632Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:14:27.286Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:14:27.644Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:14:37.280Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:14:37.642Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:14:47.283Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:14:47.638Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:14:57.445Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:14:57.807Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:15:07.284Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:15:07.642Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:15:17.314Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:15:17.674Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:15:27.300Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:15:27.659Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:15:37.298Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:15:37.654Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:15:47.297Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:15:47.651Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:15:57.411Z] [METRIC] Enviado: disco 85% | RAM 6/8GB
+[2026-02-28T03:15:57.786Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:16:07.379Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:16:07.809Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:16:17.359Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:16:17.731Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:16:27.357Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:16:27.713Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:16:37.336Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:16:37.716Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:16:47.350Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:16:47.701Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:16:57.348Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:16:57.703Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:17:07.364Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:17:07.720Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:17:17.417Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:17:17.773Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:17:27.367Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:17:27.723Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:17:37.370Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:17:37.729Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:17:47.387Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:17:47.743Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:17:57.391Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:17:57.742Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:18:07.379Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:18:07.733Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:18:17.390Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:18:17.749Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:18:27.405Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:18:27.774Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:18:37.402Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:18:37.764Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:18:47.417Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:18:47.777Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:18:57.417Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:18:57.782Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:19:07.453Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:19:07.817Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:19:17.440Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:19:17.799Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:19:27.456Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:19:27.815Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:19:37.481Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:19:37.847Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:19:47.471Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:19:47.831Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:19:57.472Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:19:57.827Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:20:07.473Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:20:07.831Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:20:17.492Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:20:17.851Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:20:27.490Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:20:27.851Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:20:37.483Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:20:37.838Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:20:47.485Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:20:47.845Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:20:57.494Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:20:57.850Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:21:07.491Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:21:07.849Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:21:17.514Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:21:17.874Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:21:27.497Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:21:27.854Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:21:37.500Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:21:37.853Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:21:47.496Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:21:47.850Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:21:57.513Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:21:57.867Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:22:07.523Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:22:07.880Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:22:17.535Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:22:17.890Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:22:27.531Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:22:27.886Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:22:37.541Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:22:37.896Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:22:47.561Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:22:47.937Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:22:57.571Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:22:57.931Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:23:07.556Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:23:07.908Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:23:17.583Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:23:17.942Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:23:27.576Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:23:27.932Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:23:37.586Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:23:37.942Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:23:47.599Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:23:47.955Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:23:57.599Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:23:57.957Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:24:07.608Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:24:07.963Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:24:17.661Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:24:18.032Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:24:27.615Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:24:27.972Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:24:37.615Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:24:37.973Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:24:47.617Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:24:47.973Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:24:57.681Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:24:58.039Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:25:07.639Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:25:07.992Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:25:17.642Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:25:18.001Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:25:27.646Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:25:28.006Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:25:37.649Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:25:38.002Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:25:47.722Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:25:48.075Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:25:57.679Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:25:58.040Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:26:07.662Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:26:08.016Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:26:17.670Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:26:18.023Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:34:37.234Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T03:34:37.411Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:34:37.897Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:34:47.506Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:34:47.857Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:34:57.519Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:34:57.874Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:35:07.563Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:35:07.919Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:35:17.530Z] [METRIC] Enviado: disco 85% | RAM 8/8GB
+[2026-02-28T03:35:17.884Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:35:27.559Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:35:27.913Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:35:37.538Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:35:37.890Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:35:47.555Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:35:47.908Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:35:57.557Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:35:57.913Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:36:07.571Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:36:07.928Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:36:17.565Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:36:17.918Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:36:27.675Z] [METRIC] Enviado: disco 85% | RAM 8/8GB
+[2026-02-28T03:36:28.036Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:36:37.583Z] [METRIC] Enviado: disco 85% | RAM 6/8GB
+[2026-02-28T03:36:37.940Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:36:47.564Z] [METRIC] Enviado: disco 85% | RAM 6/8GB
+[2026-02-28T03:36:47.919Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:36:57.578Z] [METRIC] Enviado: disco 85% | RAM 6/8GB
+[2026-02-28T03:36:57.932Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:07.591Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:37:07.945Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:17.594Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:37:17.950Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:27.594Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T03:37:27.947Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:37.950Z] [METRIC] Enviado: disco 85% | RAM 8/8GB
+[2026-02-28T03:37:38.311Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:40.157Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T03:37:40.304Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T03:37:40.462Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T03:37:41.196Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:41.196Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:41.195Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:41.619Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:41.731Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:41.769Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:41.863Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T03:37:42.019Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T03:37:42.113Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T03:37:42.207Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:42.240Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T03:37:42.262Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:42.350Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T03:37:42.362Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:42.414Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T03:37:42.458Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:42.521Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:42.548Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:42.726Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:42.828Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:42.861Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:43.088Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:43.780Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:43.783Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:47.605Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:47.959Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:51.340Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:51.339Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:51.341Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:51.694Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:51.695Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:51.695Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:52.297Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:52.355Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:52.464Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:52.559Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:52.626Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:52.637Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:37:52.656Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:52.727Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:52.829Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:52.913Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:52.979Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:52.997Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:37:57.631Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:37:57.986Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:01.330Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:01.331Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:01.331Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:01.686Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:01.692Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:01.692Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:02.307Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:02.361Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:02.462Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:02.556Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:02.636Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:02.641Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:02.662Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:02.716Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:02.813Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:02.910Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:02.988Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:02.990Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:07.626Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:07.986Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:11.342Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:11.341Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:11.343Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:11.694Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:11.696Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:11.698Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:12.311Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:12.385Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:12.486Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:12.563Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:12.630Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:12.638Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:12.665Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:12.741Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:12.840Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:12.918Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:12.979Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:12.990Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:17.618Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:17.976Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:21.336Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:21.335Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:21.335Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:21.688Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:21.690Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:21.691Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:22.315Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:22.370Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:22.488Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:22.569Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:22.632Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:22.641Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:22.669Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:22.723Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:22.843Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:22.922Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:22.982Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:22.992Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:27.650Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:38:28.007Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:31.361Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:31.362Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:31.363Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:31.716Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:31.717Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:31.720Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:32.349Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:32.390Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:32.504Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:32.597Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:32.666Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:32.678Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:32.705Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:32.743Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:32.857Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:32.949Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:33.019Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:33.029Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:37.642Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:38.001Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:41.371Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:41.371Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:41.371Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:41.746Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:41.749Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:41.750Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:42.366Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:42.398Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:42.490Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:42.573Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:42.643Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:42.664Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:42.722Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:42.753Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:42.850Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:42.936Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:43.019Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:43.042Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:47.666Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:48.026Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:51.353Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:51.353Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:51.355Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:51.711Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:51.711Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:51.711Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:52.347Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:52.385Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:52.504Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:52.581Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:52.649Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:52.661Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:52.697Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:52.738Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:52.857Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:52.935Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:53.001Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:53.011Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:38:57.659Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:38:58.017Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:01.370Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:01.370Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:01.370Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:01.729Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:01.730Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:01.731Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:02.343Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:02.384Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:02.506Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:02.582Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:02.657Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:02.671Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:02.702Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:02.741Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:02.860Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:02.934Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:03.009Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:03.024Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:07.665Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:08.021Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:11.360Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:11.360Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:11.361Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:11.718Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:11.720Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:11.721Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:12.348Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:12.397Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:12.512Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:12.591Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:12.657Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:12.670Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:12.703Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:12.747Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:12.862Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:12.945Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:13.008Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:13.023Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:17.653Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:18.002Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:21.357Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:21.361Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:21.367Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:21.721Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:21.722Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:21.726Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:22.364Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:22.406Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:22.505Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:22.610Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:22.662Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:22.678Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:22.736Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:22.761Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:22.855Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:22.963Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:23.014Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:23.031Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:27.665Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:28.018Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:31.372Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:31.372Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:31.374Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:31.725Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:31.727Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:31.728Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:32.367Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:32.477Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:32.569Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:32.618Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:32.666Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:32.682Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:32.718Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:32.829Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:32.920Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:32.971Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:33.016Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:33.036Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:37.696Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:38.052Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:41.378Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:41.378Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:41.378Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:41.739Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:41.739Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:41.740Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:42.378Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:42.412Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:42.526Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:42.629Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:42.678Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:42.694Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:42.739Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:42.769Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:42.889Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:42.985Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:43.033Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:43.057Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:47.683Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:39:48.036Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:51.376Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:51.382Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:51.382Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:51.726Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:51.729Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:51.732Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:52.372Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:52.418Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:52.535Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:52.636Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:52.684Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:52.700Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:52.727Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:52.767Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:52.885Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:52.991Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:53.034Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:53.052Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:39:57.701Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:39:58.078Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:03.097Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:03.097Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:03.342Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:03.349Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:03.377Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:03.381Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:03.385Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:03.395Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:03.406Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:03.457Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:03.469Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:03.698Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:03.709Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:03.759Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:03.754Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:03.820Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:04.585Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:04.592Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:07.704Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:08.056Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:11.788Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:11.788Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:11.788Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:12.139Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:12.146Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:12.150Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:12.399Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:12.449Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:12.558Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:12.661Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:12.706Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:12.724Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:12.752Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:12.801Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:12.906Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:13.013Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:13.056Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:13.075Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:17.689Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:18.044Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:21.641Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:21.641Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:21.640Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:21.994Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:21.996Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:21.997Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:22.409Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:22.448Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:22.564Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:22.663Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:22.714Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:22.722Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:22.765Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:22.796Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:22.917Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:23.015Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:23.063Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:23.073Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:27.698Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:28.056Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:31.649Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:31.649Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:31.649Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:32.007Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:32.008Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:32.008Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:32.413Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:32.463Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:32.563Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:32.672Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:32.712Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:32.730Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:32.764Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:32.815Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:32.913Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:33.025Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:33.065Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:33.084Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:37.708Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:38.060Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:41.656Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:41.656Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:41.660Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:42.010Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:42.012Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:42.011Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:42.427Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:42.458Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:42.570Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:42.681Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:42.728Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:42.728Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:42.778Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:42.806Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:42.920Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:43.034Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:43.080Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:43.077Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:47.715Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:48.068Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:51.660Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:51.661Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:51.663Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:52.014Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:52.015Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:52.018Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:52.426Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:52.455Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:52.571Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:52.665Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:52.728Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:52.722Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T03:40:52.777Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:52.804Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:52.924Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:53.023Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:53.080Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:53.073Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:40:57.720Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:40:58.075Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:01.667Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:01.668Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:01.669Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:02.025Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:02.027Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:02.026Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:02.439Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:02.469Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:02.586Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:02.685Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:02.729Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:02.741Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:02.794Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:02.825Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:02.939Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:03.039Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:03.085Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:03.094Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:07.738Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:08.094Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:11.672Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:11.674Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:11.672Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:12.026Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:12.028Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:12.029Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:12.455Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:12.471Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:12.599Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:12.681Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:12.740Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:12.753Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:12.804Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:12.818Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:12.948Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:13.029Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:13.092Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:13.110Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T03:41:17.735Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T03:41:18.089Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T06:25:47.387Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T06:25:47.539Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T06:25:47.563Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T06:25:47.588Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T06:25:47.599Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T06:25:47.615Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T06:25:47.663Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T06:25:47.683Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T06:25:47.721Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T06:25:47.731Z] [METRIC] Enviado: disco 87% | RAM 7/8GB
+[2026-02-28T06:25:48.967Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T06:25:48.981Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T06:25:49.086Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T06:25:49.597Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T06:25:49.650Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T06:57:49.697Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T06:57:49.698Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T06:57:49.701Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T06:57:49.705Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T06:57:49.707Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T06:57:49.716Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T06:57:49.720Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T06:57:49.726Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T06:57:49.732Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T06:57:49.736Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T07:06:42.856Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T07:06:42.866Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T07:06:42.868Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T07:06:42.878Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T07:06:42.880Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T07:06:42.884Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T07:06:42.884Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T07:06:42.890Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T07:06:42.898Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T07:06:43.201Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T07:06:44.023Z] [ERROR] Error de socket: read ECONNRESET
+[2026-02-28T07:06:44.030Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:44.032Z] [ERROR] Error de socket: read ECONNRESET
+[2026-02-28T07:06:44.032Z] [ERROR] Error de socket: read ECONNRESET
+[2026-02-28T07:06:44.052Z] [ERROR] Error de socket: read ECONNRESET
+[2026-02-28T07:06:44.055Z] [ERROR] Error de socket: read ECONNRESET
+[2026-02-28T07:06:44.057Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:44.063Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:44.069Z] [ERROR] Error de socket: read ECONNRESET
+[2026-02-28T07:06:44.073Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:44.077Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:44.091Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:44.100Z] [ERROR] Error de socket: read ECONNRESET
+[2026-02-28T07:06:44.112Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:44.121Z] [ERROR] Error de socket: read ECONNRESET
+[2026-02-28T07:06:44.137Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:44.142Z] [ERROR] Error de socket: read ECONNRESET
+[2026-02-28T07:06:44.152Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:46.089Z] [METRIC] Enviado: disco 87% | RAM 8/8GB
+[2026-02-28T07:06:46.121Z] [ERROR] Error de socket: write ECONNRESET
+[2026-02-28T07:06:46.152Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:49.135Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:49.141Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:49.151Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:49.154Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:49.153Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:49.156Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:49.158Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:49.161Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:49.164Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:49.169Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:49.176Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:49.179Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:49.183Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:49.185Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:49.214Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:49.217Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:49.232Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:49.234Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:51.232Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:51.234Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:54.173Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:54.174Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:54.176Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:54.177Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:54.187Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:54.189Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:54.189Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:54.191Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:54.190Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:54.192Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:54.203Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:54.205Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:54.206Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:54.209Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:54.236Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:54.239Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:54.249Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:54.252Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T07:06:56.261Z] [ERROR] Error de socket: 
+[2026-02-28T07:06:56.263Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:09.277Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:09.286Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:09.286Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:09.287Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:09.288Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:09.290Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:09.293Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:09.292Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:09.293Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:09.295Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:09.307Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:09.313Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:09.324Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:09.351Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:09.389Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:09.400Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:09.430Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:09.440Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:10.394Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:10.403Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:14.956Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:14.974Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:15.005Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:15.008Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:15.011Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:15.014Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:15.015Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:15.038Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:15.040Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:15.015Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:15.112Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:15.115Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:15.772Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:15.787Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:15.831Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:15.863Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:15.976Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:15.990Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:16.480Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:16.498Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:20.188Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:20.186Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:20.235Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:20.258Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:20.316Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:20.317Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:20.320Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:20.322Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:20.328Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:20.337Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:20.342Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:20.349Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:20.909Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:20.927Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:20.943Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:20.949Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:21.040Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:21.043Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:21.525Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:21.529Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:25.290Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:25.299Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:25.312Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:25.316Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:25.385Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:25.389Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:25.399Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:25.401Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:25.402Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:25.416Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:25.433Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:25.441Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:25.966Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:25.976Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:25.993Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:25.997Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:26.085Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:26.091Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:26.636Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:26.655Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:30.334Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:30.336Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:30.336Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:30.339Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:30.412Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:30.414Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:30.430Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:30.433Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:30.445Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:30.448Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:30.462Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:30.465Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:31.022Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:31.054Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:31.072Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:31.089Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:31.129Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:31.133Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:31.722Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:31.724Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:35.359Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:35.357Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:35.361Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:35.361Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:35.438Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:35.441Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:35.458Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:35.460Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:35.468Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:35.473Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:35.489Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:35.498Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:36.087Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:36.090Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:36.137Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:36.143Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:36.155Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:36.158Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:36.778Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:36.783Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:40.375Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:40.377Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:40.377Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:40.380Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:40.456Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:40.458Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:40.479Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:40.481Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:40.490Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:40.492Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:40.511Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:40.513Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:41.109Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:41.110Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:41.162Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:41.164Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:41.172Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:41.174Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:41.828Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:41.830Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:45.391Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:45.392Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:45.393Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:45.395Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:45.473Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:45.475Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:45.494Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:45.496Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:45.503Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:45.504Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:45.536Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:45.538Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:46.123Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:46.125Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:46.190Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:46.190Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:46.192Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:46.192Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:46.849Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:46.851Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:50.435Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:50.435Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:50.451Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:50.465Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:50.517Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:50.524Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:50.532Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:50.534Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:50.536Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:50.544Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:50.564Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:50.575Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:51.143Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:51.146Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:51.209Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:51.213Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:51.213Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:51.216Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:51.869Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:51.871Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:55.467Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:55.469Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:55.487Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:55.489Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:55.550Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:55.552Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:55.564Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:55.563Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:55.566Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:55.567Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:55.598Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:55.600Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:56.154Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:56.156Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:56.234Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:56.235Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:56.236Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:56.237Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:19:56.884Z] [ERROR] Error de socket: 
+[2026-02-28T13:19:56.886Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:00.484Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:00.486Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:00.502Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:00.504Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:00.568Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:00.570Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:00.580Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:00.582Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:00.582Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:00.584Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:00.617Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:00.619Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:01.171Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:01.173Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:01.251Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:01.251Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:01.253Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:01.254Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:01.901Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:01.902Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:05.507Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:05.509Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:05.522Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:05.523Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:05.587Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:05.589Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:05.600Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:05.603Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:05.603Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:05.605Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:05.634Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:05.637Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:06.184Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:06.186Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:06.261Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:06.263Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:06.265Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:06.267Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:06.918Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:06.920Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:10.516Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:10.517Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:10.537Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:10.539Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:10.602Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:10.603Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:10.611Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:10.613Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:10.648Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:10.651Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:11.286Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:11.289Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:11.933Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:11.935Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:15.616Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:15.618Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:15.665Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:15.667Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:20.626Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:20.627Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:25.646Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:25.648Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:30.664Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:30.667Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:35.680Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:35.682Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:40.693Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:40.695Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:45.704Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:45.706Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:50.728Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:50.730Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:20:55.740Z] [ERROR] Error de socket: 
+[2026-02-28T13:20:55.741Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:21:00.752Z] [ERROR] Error de socket: 
+[2026-02-28T13:21:00.753Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:21:05.767Z] [ERROR] Error de socket: 
+[2026-02-28T13:21:05.768Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:21:10.781Z] [ERROR] Error de socket: 
+[2026-02-28T13:21:10.783Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:21:15.802Z] [ERROR] Error de socket: 
+[2026-02-28T13:21:15.803Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:21:20.823Z] [ERROR] Error de socket: 
+[2026-02-28T13:21:20.825Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:21:25.844Z] [ERROR] Error de socket: 
+[2026-02-28T13:21:25.846Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:21:30.864Z] [ERROR] Error de socket: 
+[2026-02-28T13:21:30.866Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:21:35.888Z] [ERROR] Error de socket: 
+[2026-02-28T13:21:35.890Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:21:40.902Z] [ERROR] Error de socket: 
+[2026-02-28T13:21:40.905Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:21:45.921Z] [ERROR] Error de socket: 
+[2026-02-28T13:21:45.922Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:21:50.931Z] [ERROR] Error de socket: 
+[2026-02-28T13:21:50.932Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:21:55.944Z] [ERROR] Error de socket: 
+[2026-02-28T13:21:55.946Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:22:00.959Z] [ERROR] Error de socket: 
+[2026-02-28T13:22:00.961Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:22:05.982Z] [ERROR] Error de socket: 
+[2026-02-28T13:22:05.984Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:22:11.007Z] [ERROR] Error de socket: 
+[2026-02-28T13:22:11.009Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:22:16.033Z] [ERROR] Error de socket: 
+[2026-02-28T13:22:16.035Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:22:21.051Z] [ERROR] Error de socket: 
+[2026-02-28T13:22:21.053Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:22:26.063Z] [ERROR] Error de socket: 
+[2026-02-28T13:22:26.066Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:22:31.076Z] [ERROR] Error de socket: 
+[2026-02-28T13:22:31.078Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:22:36.090Z] [ERROR] Error de socket: 
+[2026-02-28T13:22:36.095Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:22:41.102Z] [ERROR] Error de socket: 
+[2026-02-28T13:22:41.104Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:22:46.114Z] [ERROR] Error de socket: 
+[2026-02-28T13:22:46.117Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:22:51.131Z] [ERROR] Error de socket: 
+[2026-02-28T13:22:51.134Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:22:56.142Z] [ERROR] Error de socket: 
+[2026-02-28T13:22:56.145Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:23:01.158Z] [ERROR] Error de socket: 
+[2026-02-28T13:23:01.160Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:23:06.178Z] [ERROR] Error de socket: 
+[2026-02-28T13:23:06.180Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:23:11.205Z] [ERROR] Error de socket: 
+[2026-02-28T13:23:11.221Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:23:16.250Z] [ERROR] Error de socket: 
+[2026-02-28T13:23:16.252Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:23:21.268Z] [ERROR] Error de socket: 
+[2026-02-28T13:23:21.270Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:23:26.286Z] [ERROR] Error de socket: 
+[2026-02-28T13:23:26.288Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:23:31.308Z] [ERROR] Error de socket: 
+[2026-02-28T13:23:31.310Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:23:36.331Z] [ERROR] Error de socket: 
+[2026-02-28T13:23:36.333Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:23:41.341Z] [ERROR] Error de socket: 
+[2026-02-28T13:23:41.343Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:23:46.363Z] [ERROR] Error de socket: 
+[2026-02-28T13:23:46.366Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:23:51.377Z] [ERROR] Error de socket: 
+[2026-02-28T13:23:51.379Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:23:56.389Z] [ERROR] Error de socket: 
+[2026-02-28T13:23:56.391Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:24:01.411Z] [ERROR] Error de socket: 
+[2026-02-28T13:24:01.413Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:24:06.429Z] [ERROR] Error de socket: 
+[2026-02-28T13:24:06.431Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:24:11.453Z] [ERROR] Error de socket: 
+[2026-02-28T13:24:11.456Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:24:16.473Z] [ERROR] Error de socket: 
+[2026-02-28T13:24:16.475Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:24:21.489Z] [ERROR] Error de socket: 
+[2026-02-28T13:24:21.491Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:24:26.508Z] [ERROR] Error de socket: 
+[2026-02-28T13:24:26.510Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:24:31.525Z] [ERROR] Error de socket: 
+[2026-02-28T13:24:31.528Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:24:36.544Z] [ERROR] Error de socket: 
+[2026-02-28T13:24:36.546Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:24:41.553Z] [ERROR] Error de socket: 
+[2026-02-28T13:24:41.555Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:24:46.565Z] [ERROR] Error de socket: 
+[2026-02-28T13:24:46.566Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:24:51.592Z] [ERROR] Error de socket: 
+[2026-02-28T13:24:51.594Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:24:56.605Z] [ERROR] Error de socket: 
+[2026-02-28T13:24:56.607Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:25:01.625Z] [ERROR] Error de socket: 
+[2026-02-28T13:25:01.627Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:25:06.641Z] [ERROR] Error de socket: 
+[2026-02-28T13:25:06.643Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:25:11.657Z] [ERROR] Error de socket: 
+[2026-02-28T13:25:11.659Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:25:16.676Z] [ERROR] Error de socket: 
+[2026-02-28T13:25:16.679Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:25:21.755Z] [ERROR] Error de socket: 
+[2026-02-28T13:25:21.757Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:25:26.765Z] [ERROR] Error de socket: 
+[2026-02-28T13:25:26.767Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:25:31.783Z] [ERROR] Error de socket: 
+[2026-02-28T13:25:31.784Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:25:36.793Z] [ERROR] Error de socket: 
+[2026-02-28T13:25:36.794Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:25:41.817Z] [ERROR] Error de socket: 
+[2026-02-28T13:25:41.819Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:25:46.837Z] [ERROR] Error de socket: 
+[2026-02-28T13:25:46.838Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:25:51.856Z] [ERROR] Error de socket: 
+[2026-02-28T13:25:51.858Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:25:56.872Z] [ERROR] Error de socket: 
+[2026-02-28T13:25:56.876Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:26:01.890Z] [ERROR] Error de socket: 
+[2026-02-28T13:26:01.891Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:26:06.906Z] [ERROR] Error de socket: 
+[2026-02-28T13:26:06.908Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:26:11.924Z] [ERROR] Error de socket: 
+[2026-02-28T13:26:11.926Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:26:16.933Z] [ERROR] Error de socket: 
+[2026-02-28T13:26:16.934Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:26:21.954Z] [ERROR] Error de socket: 
+[2026-02-28T13:26:21.956Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:26:26.976Z] [ERROR] Error de socket: 
+[2026-02-28T13:26:26.978Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:26:31.989Z] [ERROR] Error de socket: 
+[2026-02-28T13:26:31.992Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:26:36.998Z] [ERROR] Error de socket: 
+[2026-02-28T13:26:37.000Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:26:42.015Z] [ERROR] Error de socket: 
+[2026-02-28T13:26:42.017Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:26:47.028Z] [ERROR] Error de socket: 
+[2026-02-28T13:26:47.031Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:26:52.047Z] [ERROR] Error de socket: 
+[2026-02-28T13:26:52.049Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:26:57.066Z] [ERROR] Error de socket: 
+[2026-02-28T13:26:57.068Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:27:02.087Z] [ERROR] Error de socket: 
+[2026-02-28T13:27:02.089Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:27:07.095Z] [ERROR] Error de socket: 
+[2026-02-28T13:27:07.096Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:27:12.106Z] [ERROR] Error de socket: 
+[2026-02-28T13:27:12.108Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:27:17.120Z] [ERROR] Error de socket: 
+[2026-02-28T13:27:17.123Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:27:22.141Z] [ERROR] Error de socket: 
+[2026-02-28T13:27:22.143Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:27:27.152Z] [ERROR] Error de socket: 
+[2026-02-28T13:27:27.153Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:27:32.174Z] [ERROR] Error de socket: 
+[2026-02-28T13:27:32.176Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:27:37.191Z] [ERROR] Error de socket: 
+[2026-02-28T13:27:37.193Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:27:42.212Z] [ERROR] Error de socket: 
+[2026-02-28T13:27:42.214Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:27:47.226Z] [ERROR] Error de socket: 
+[2026-02-28T13:27:47.227Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:27:52.249Z] [ERROR] Error de socket: 
+[2026-02-28T13:27:52.251Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:27:57.263Z] [ERROR] Error de socket: 
+[2026-02-28T13:27:57.265Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:02.272Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:02.274Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:07.288Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:07.290Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:07.714Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:07.721Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:12.306Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:12.308Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:12.741Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:12.743Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:17.329Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:17.331Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:17.770Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:17.771Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:22.340Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:22.342Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:22.784Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:22.786Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:27.353Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:27.355Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:27.804Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:27.807Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:32.374Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:32.375Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:32.817Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:32.819Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:37.393Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:37.395Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:37.833Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:37.835Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:42.409Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:42.411Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:42.849Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:42.851Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:47.424Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:47.425Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:47.862Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:47.865Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:52.442Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:52.444Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:52.878Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:52.880Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:57.460Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:57.463Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:28:57.890Z] [ERROR] Error de socket: 
+[2026-02-28T13:28:57.892Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:02.484Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:02.486Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:02.904Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:02.906Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:07.505Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:07.507Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:07.913Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:07.916Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:12.526Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:12.530Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:12.926Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:12.928Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:17.548Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:17.549Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:17.944Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:17.946Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:22.559Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:22.562Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:22.961Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:22.962Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:27.571Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:27.573Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:27.972Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:27.974Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:32.584Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:32.588Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:32.986Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:32.988Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:37.605Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:37.607Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:37.997Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:37.998Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:42.625Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:42.627Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:43.004Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:43.006Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:47.636Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:47.638Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:48.013Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:48.016Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:52.658Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:52.660Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:53.031Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:53.033Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:57.680Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:57.682Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:29:58.049Z] [ERROR] Error de socket: 
+[2026-02-28T13:29:58.050Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:02.703Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:02.705Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:03.071Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:03.072Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:07.724Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:07.726Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:08.076Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:08.078Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:12.745Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:12.747Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:13.091Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:13.093Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:17.769Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:17.771Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:22.786Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:22.788Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:24.489Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:24.494Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:27.799Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:27.801Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:29.517Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:29.519Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:32.818Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:32.820Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:34.532Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:34.534Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:37.832Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:37.834Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:39.555Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:39.557Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:42.844Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:42.846Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:44.571Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:44.573Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:47.856Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:47.858Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:49.583Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:49.585Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:52.874Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:52.876Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:54.593Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:54.596Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:57.882Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:57.884Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:30:59.617Z] [ERROR] Error de socket: 
+[2026-02-28T13:30:59.619Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:02.901Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:02.903Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:04.627Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:04.629Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:07.918Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:07.919Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:09.636Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:09.638Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:12.935Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:12.937Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:14.652Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:14.654Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:17.951Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:17.953Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:19.664Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:19.666Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:22.966Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:22.968Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:24.686Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:24.688Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:27.976Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:27.977Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:29.703Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:29.705Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:32.991Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:32.993Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:34.722Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:34.724Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:38.007Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:38.009Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:39.738Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:39.740Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:43.025Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:43.027Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:44.761Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:44.763Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:48.033Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:48.035Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:49.774Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:49.776Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:53.056Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:53.058Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:54.786Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:54.787Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:58.076Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:58.078Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:31:59.798Z] [ERROR] Error de socket: 
+[2026-02-28T13:31:59.799Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:32:03.094Z] [ERROR] Error de socket: 
+[2026-02-28T13:32:03.096Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:32:04.817Z] [ERROR] Error de socket: 
+[2026-02-28T13:32:04.819Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:32:08.106Z] [ERROR] Error de socket: 
+[2026-02-28T13:32:08.107Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:32:09.834Z] [ERROR] Error de socket: 
+[2026-02-28T13:32:09.836Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:32:13.120Z] [ERROR] Error de socket: 
+[2026-02-28T13:32:13.122Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:32:14.849Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T13:32:15.853Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:32:16.174Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:32:18.149Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T13:32:18.575Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:32:18.800Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:32:26.144Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:32:26.394Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:32:28.885Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:32:29.100Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:32:36.255Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:32:36.485Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:32:38.911Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:32:39.137Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:32:46.204Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:32:46.439Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:32:48.961Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:32:49.221Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:32:56.191Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:32:56.414Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:32:58.906Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:32:59.130Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:33:06.234Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:33:06.452Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:33:08.947Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:33:09.194Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:33:16.191Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:33:16.418Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:33:18.949Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:33:19.197Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:33:26.226Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:33:26.443Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:33:28.921Z] [METRIC] Enviado: disco 85% | RAM 7/8GB
+[2026-02-28T13:33:29.148Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:33:30.632Z] [ERROR] Error de socket: read ECONNRESET
+[2026-02-28T13:33:30.667Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-02-28T13:38:55.087Z] [INFO] Conectado al servidor localhost:9000
+[2026-02-28T13:38:55.814Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:38:56.120Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:39:06.100Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:39:06.332Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:39:16.143Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:39:16.381Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:39:26.129Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:39:26.347Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:39:36.143Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:39:36.380Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:39:46.168Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:39:46.388Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:39:56.149Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:39:56.374Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:40:06.201Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:40:06.423Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:40:16.175Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:40:16.409Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:40:26.203Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:40:26.420Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:40:36.151Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:40:36.417Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:40:46.155Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:40:46.374Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:40:56.331Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:40:56.573Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:41:06.226Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:41:06.447Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:41:16.176Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:41:16.419Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:41:26.453Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:41:26.706Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:41:36.209Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:41:36.450Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:41:46.242Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:41:46.481Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:41:56.231Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:41:56.477Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:42:06.406Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:42:06.634Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:42:16.336Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:42:16.561Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:42:26.685Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:42:26.930Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:42:36.277Z] [METRIC] Enviado: disco 84% | RAM 8/8GB
+[2026-02-28T13:42:36.508Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:42:46.268Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:42:46.483Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:42:56.263Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:42:56.470Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:43:06.239Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:43:06.469Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:43:16.341Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:43:16.579Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:43:26.279Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:43:26.619Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:43:36.301Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:43:36.553Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:43:46.327Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:43:46.549Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:43:56.307Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:43:56.566Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:44:06.908Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:44:07.154Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:44:16.339Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:44:16.572Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:44:26.440Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:44:26.663Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:44:36.311Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:44:36.546Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:44:46.328Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:44:46.612Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:44:56.335Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:44:56.563Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:45:06.342Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:45:06.582Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:45:16.423Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:45:16.655Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:45:26.382Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:45:26.597Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:45:36.375Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:45:36.585Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:45:46.201Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:45:46.410Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:45:56.189Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:45:56.410Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:46:06.206Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:46:06.413Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:46:16.220Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:46:16.430Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:46:27.022Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:46:27.229Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:46:36.221Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:46:36.438Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:46:46.243Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:46:46.449Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:46:56.225Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:46:56.431Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:47:06.259Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:47:06.469Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:47:16.242Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:47:16.452Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:47:26.242Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:47:26.448Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:47:36.298Z] [METRIC] Enviado: disco 84% | RAM 8/8GB
+[2026-02-28T13:47:36.507Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:47:46.283Z] [METRIC] Enviado: disco 84% | RAM 7/8GB
+[2026-02-28T13:47:46.489Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:47:56.272Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:47:56.481Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:48:06.288Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:48:06.495Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:48:16.287Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:48:16.491Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:48:26.293Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:48:26.497Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:48:36.301Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:48:36.517Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:48:46.305Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:48:46.510Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:48:56.359Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:48:56.572Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:49:06.310Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:49:06.517Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:49:16.315Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:49:16.514Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:49:26.319Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:49:26.536Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:49:36.324Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:49:36.530Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:49:46.327Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:49:46.532Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:49:56.330Z] [METRIC] Enviado: disco 84% | RAM 5/8GB
+[2026-02-28T13:49:56.536Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:50:06.404Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:50:06.620Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:50:16.398Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:50:16.628Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:50:26.347Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:50:26.571Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:50:36.351Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:50:36.561Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:50:46.351Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:50:46.557Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:50:56.351Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:50:56.558Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:51:06.353Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:51:06.555Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:51:16.352Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:51:16.569Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:51:26.355Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:51:26.592Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:51:36.373Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:51:36.582Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:51:46.360Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:51:46.591Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:51:56.358Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:51:56.570Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:52:06.363Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:52:06.599Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:52:16.384Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:52:16.597Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:52:26.400Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:52:26.608Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:52:36.398Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:52:36.606Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:52:46.416Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:52:46.620Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:52:56.408Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:52:56.616Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:53:06.410Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:53:06.621Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:53:16.416Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:53:16.618Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:53:26.411Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:53:26.632Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:53:36.419Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:53:36.631Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:53:46.425Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:53:46.640Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:53:56.426Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:53:56.644Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:54:06.426Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:54:06.638Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:54:16.432Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:54:16.636Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:54:26.432Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:54:26.647Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:54:36.438Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:54:36.646Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:54:46.441Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:54:46.650Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:54:56.440Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:54:56.651Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:55:06.443Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:55:06.658Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:55:16.446Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:55:16.649Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:55:26.450Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:55:26.662Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:55:36.450Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:55:36.659Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:55:46.453Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:55:46.660Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:55:56.458Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:55:56.672Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:56:06.460Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:56:06.670Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:56:16.463Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:56:16.667Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:56:26.468Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:56:26.677Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:56:36.468Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:56:36.680Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:56:46.470Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:56:46.686Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:56:56.475Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:56:56.683Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:57:06.493Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:57:06.688Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:57:16.483Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:57:16.693Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:57:26.495Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:57:26.701Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:57:36.504Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:57:36.708Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:57:46.511Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:57:46.720Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:57:56.513Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:57:56.728Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:58:06.516Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:58:06.730Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:58:16.537Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:58:16.764Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:58:26.542Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:58:26.760Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:58:36.545Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:58:36.750Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:58:46.560Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:58:46.764Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:58:56.605Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:58:56.804Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:59:06.579Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:59:06.772Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:59:16.579Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:59:16.785Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:59:26.590Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:59:26.828Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:59:36.595Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:59:36.798Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:59:46.594Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:59:46.800Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T13:59:56.599Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T13:59:56.859Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:00:07.348Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:00:07.592Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:00:16.835Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:00:17.078Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:00:26.824Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:00:27.049Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:00:36.831Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:00:37.060Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:00:46.853Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:00:47.072Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:00:56.857Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:00:57.082Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:01:06.866Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:01:07.079Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:01:16.850Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:01:17.066Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:01:26.847Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:01:27.054Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:01:36.872Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:01:37.079Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:01:46.873Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:01:47.081Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:01:56.868Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:01:57.106Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:02:06.875Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:02:07.107Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:02:16.890Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:02:17.153Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:02:26.894Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:02:27.158Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:02:36.908Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:02:37.151Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:02:46.927Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:02:47.452Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:02:56.935Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:02:57.171Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:03:06.947Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:03:07.223Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:03:16.948Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:03:17.173Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:03:26.965Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:03:27.203Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:03:36.977Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:03:37.214Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:03:46.977Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:03:47.203Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:03:56.984Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:03:57.199Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:04:06.983Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:04:07.217Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:04:16.987Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:04:17.230Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:04:26.998Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:04:27.227Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:04:37.004Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:04:37.231Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:04:47.016Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:04:47.260Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:04:57.022Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:04:57.252Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:05:07.018Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:05:07.254Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:05:17.027Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:05:17.323Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:05:27.043Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:05:27.285Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:05:37.068Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:05:37.307Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:05:47.057Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:05:47.285Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:05:57.053Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:05:57.287Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:06:07.064Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:06:07.313Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:06:17.060Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:06:17.390Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:06:27.087Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:06:27.320Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:06:37.079Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:06:37.309Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:06:47.092Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:06:47.331Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:06:57.110Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:06:57.329Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:07:07.106Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:07:07.343Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:07:17.117Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:07:17.348Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:07:27.131Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:07:27.370Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:07:37.140Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:07:37.385Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:07:47.155Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:07:47.538Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:07:57.156Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:07:57.386Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:08:07.158Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:08:07.393Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:08:17.160Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:08:17.394Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:08:27.173Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:08:27.410Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:08:37.180Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:08:37.419Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:08:47.191Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:08:47.516Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:08:57.302Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:08:57.553Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:09:07.203Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:09:07.423Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:09:17.210Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:09:17.422Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:09:27.211Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:09:27.436Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:09:37.221Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:09:37.458Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:09:47.232Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:09:47.476Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:09:57.249Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:09:57.490Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:10:07.256Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:10:07.494Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:10:17.268Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:10:17.503Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:10:27.268Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:10:27.521Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:10:37.274Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:10:37.514Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:10:47.271Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:10:47.505Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:10:57.277Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:10:57.509Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:11:07.280Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:11:07.516Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:11:17.285Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:11:17.521Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:11:27.298Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:11:27.527Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:11:37.309Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:11:37.546Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:11:47.314Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:11:47.527Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:11:57.329Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:11:57.586Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:12:07.332Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:12:07.584Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:12:17.338Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:12:17.576Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:12:27.341Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:12:27.578Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:12:37.343Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:12:37.621Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:12:47.360Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:12:47.644Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:12:57.376Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:12:57.618Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:13:07.382Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:13:07.623Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:13:17.402Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:13:17.632Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:13:27.405Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:13:27.636Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:13:37.409Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:13:37.647Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:13:47.423Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:13:47.659Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:13:57.427Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:13:57.670Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:14:07.440Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:14:07.683Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:14:17.442Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:14:17.674Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:14:27.453Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:14:27.693Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:14:37.461Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:14:37.708Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:14:47.469Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:14:47.692Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:14:57.465Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:14:57.695Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:15:07.487Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:15:07.752Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:15:17.504Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:15:17.746Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:15:27.508Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:15:27.754Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:15:37.526Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:15:37.817Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:15:47.537Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:15:47.776Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:15:57.557Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:15:57.793Z] [ACK] Métrica confirmada por servidor
+[2026-02-28T14:16:07.560Z] [METRIC] Enviado: disco 84% | RAM 6/8GB
+[2026-02-28T14:16:07.804Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:19:05.331Z] [ERROR] Error de socket: 
+[2026-03-03T18:19:05.337Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:19:10.357Z] [ERROR] Error de socket: 
+[2026-03-03T18:19:10.359Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:19:15.370Z] [ERROR] Error de socket: 
+[2026-03-03T18:19:15.372Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:19:20.387Z] [ERROR] Error de socket: 
+[2026-03-03T18:19:20.390Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:19:25.412Z] [ERROR] Error de socket: 
+[2026-03-03T18:19:25.414Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:19:30.432Z] [ERROR] Error de socket: 
+[2026-03-03T18:19:30.433Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:19:35.445Z] [ERROR] Error de socket: 
+[2026-03-03T18:19:35.447Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:19:40.461Z] [ERROR] Error de socket: 
+[2026-03-03T18:19:40.463Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:19:45.475Z] [ERROR] Error de socket: 
+[2026-03-03T18:19:45.476Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:19:50.492Z] [ERROR] Error de socket: 
+[2026-03-03T18:19:50.493Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:19:55.507Z] [ERROR] Error de socket: 
+[2026-03-03T18:19:55.509Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:20:00.519Z] [ERROR] Error de socket: 
+[2026-03-03T18:20:00.521Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:20:05.537Z] [ERROR] Error de socket: 
+[2026-03-03T18:20:05.542Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:20:10.558Z] [ERROR] Error de socket: 
+[2026-03-03T18:20:10.560Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:20:15.568Z] [ERROR] Error de socket: 
+[2026-03-03T18:20:15.569Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:20:20.581Z] [ERROR] Error de socket: 
+[2026-03-03T18:20:20.583Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:20:25.592Z] [ERROR] Error de socket: 
+[2026-03-03T18:20:25.594Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:20:30.601Z] [ERROR] Error de socket: 
+[2026-03-03T18:20:30.603Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:20:35.614Z] [ERROR] Error de socket: 
+[2026-03-03T18:20:35.616Z] [WARN] Conexión cerrada. Reintentando en 5s...
+[2026-03-03T18:20:40.640Z] [INFO] Conectado al servidor localhost:9000
+[2026-03-03T18:20:42.134Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:20:42.538Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:20:52.506Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:20:52.738Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:21:02.428Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:21:02.657Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:21:12.492Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:21:12.756Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:21:22.503Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:21:22.734Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:21:32.489Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:21:32.756Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:21:37.926Z] [COMMAND] Servidor dice: Verifique espacio
+[2026-03-03T18:21:42.507Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:21:43.169Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:21:52.484Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:21:52.745Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:22:02.562Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:22:02.793Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:22:12.509Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:22:12.752Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:22:22.528Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:22:22.803Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:22:32.486Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:22:32.858Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:22:42.494Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:22:42.894Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:22:52.544Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:22:52.764Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:23:02.519Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:23:02.831Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:23:12.551Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:23:12.768Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:23:22.551Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:23:22.753Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:23:32.565Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:23:32.785Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:23:42.549Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:23:42.788Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:23:52.550Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:23:52.750Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:24:02.579Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:24:02.791Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:24:12.632Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:24:12.855Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:24:22.575Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:24:22.775Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:24:32.597Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:24:32.806Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:24:42.593Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:24:42.889Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:24:52.594Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:24:52.921Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:25:02.579Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:25:02.800Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:25:12.733Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:25:12.947Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:25:22.606Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:25:22.820Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:25:32.628Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:25:32.827Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:25:42.646Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:25:42.860Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:25:52.655Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:25:52.954Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:26:02.669Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:26:02.880Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:26:12.636Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:26:12.850Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:26:22.620Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:26:22.846Z] [ACK] Métrica confirmada por servidor
+[2026-03-03T18:26:32.703Z] [METRIC] Enviado: 2 disco(s) 55% | RAM 7/8GB
+[2026-03-03T18:26:32.902Z] [ACK] Métrica confirmada por servidor
